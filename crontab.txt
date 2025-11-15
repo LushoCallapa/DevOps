@@ -1,0 +1,1 @@
+0 2 * * * /home/luis/DevOps/script2/cleanup_logs.sh >> /home/luis/DevOps/script2/cleanup_log_action.log 2>&1

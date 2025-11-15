@@ -1,0 +1,17 @@
+===== Despliegue iniciado: vie 14 nov 2025 14:06:47 -04 =====
+[INFO] Proyecto encontrado. Actualizando...
+Desde https://github.com/rayner-villalba-coderoad-com/clash-of-clan
+ * branch            main       -> FETCH_HEAD
+Ya está actualizado.
+[INFO] Reiniciando servicio (nginx)...
+Failed to restart nginx.service: Unit nginx.service not found.
+[OK] Servicio reiniciado con éxito.
+===== Despliegue finalizado: vie 14 nov 2025 14:06:48 -04 =====
+===== Despliegue iniciado: sáb 15 nov 2025 11:36:36 -04 =====
+[INFO] Proyecto encontrado. Actualizando...
+Desde https://github.com/rayner-villalba-coderoad-com/clash-of-clan
+ * branch            main       -> FETCH_HEAD
+Ya está actualizado.
+[INFO] Reiniciando servicio (nginx)...
+[OK] Servicio reiniciado con éxito.
+===== Despliegue finalizado: sáb 15 nov 2025 11:36:37 -04 =====
